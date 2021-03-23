@@ -1,5 +1,7 @@
 ## Approach
 
+### Please note that the dataset used is proprietary and wouldn't be available for public share
+
 The competition was based on an imbalanced binary classification problem with AUCROC metric.
 I created several features based on textual information and user behaviour to arrive at my final solution
 The features created were:
